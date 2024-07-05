@@ -1,0 +1,272 @@
+.dashentire{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    margin-left: 40px;
+    gap: 15vh;
+}
+
+#logo:hover{
+    cursor: pointer;
+}
+
+.navbar{
+    margin-top: 70px;
+}
+
+.nav1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+    margin-left: 10px;
+    color: #AEAEAE;
+    text-decoration: none;
+}
+
+#navp{
+    margin-top: -1px;
+    margin-left: 10px;
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+
+li{
+    color: black;
+}
+
+.nav1:hover{
+    cursor: pointer;
+    color: #14CC26;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+}
+
+.searchcontainer{
+    display: flex;
+    flex-direction: row;
+}
+
+#searchbox{
+    position: relative;
+    z-index: 0;
+    height: 40px;
+    width: 350px;
+    padding-left: 20px;
+    border-radius: 10px;
+    background-color: #F8F8F8;
+    border: 1px solid white;
+    margin-top: -10px;
+}
+
+#search{
+    position: relative;
+    z-index: 1;
+    margin-left: -40px;
+    margin-top: 2px;
+}
+
+.leftcorner{
+    display: flex;
+    flex-direction: row;
+    gap: 3vh;
+    margin-left: 600px;
+}
+
+#corny{
+    margin-top: -8px;
+}
+
+.dashbelow{
+    background-color: #E3E3E3;
+    height: 1200px;
+    margin-top: 20px;
+}
+
+.live{
+    display: flex;
+    flex-direction: row;
+    gap: 5vh;
+    padding-top: 50px;
+    justify-content: center;
+}
+
+.liveone{
+    background-color: white;
+    width: 200px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+span{
+    color: #14CC26;
+    font-weight: 500;
+}
+
+.liveinterior{
+    display: flex;
+    flex-direction: row;
+    margin-top: -30px;
+}
+
+#projects{
+    margin-top: 13px;
+    margin-left: 40px;
+}
+
+#liveh1{
+    font-size: 40px;
+    margin-top: -10px;
+}
+
+#projs{
+    margin-top: 13px;
+    margin-left: 80px;
+}
+
+#clients{
+    margin-top: 15px;
+    margin-left: 80px;
+}
+
+#total{
+    margin-top: 15px;
+    margin-left: 78px;
+}
+
+.dashbelowleft{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.lower1,.lower2{
+    display: flex;
+    flex-direction: row;
+}
+
+#lower1p{
+    margin-left: 440px;
+    margin-top: 25px;
+    color: #14CC26;
+    font-weight: 500;
+}
+
+.lower2side{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 150px;
+    gap: 15vh;
+}
+
+.lower3line{
+    display: flex;
+    flex-direction: row;
+}
+
+.lower3side{
+    display: flex;
+    flex-direction: row;
+    margin-top: 6px;
+    margin-left: 150px;
+    gap: 15vh;
+}
+
+.lower{
+    background-color: white;
+    border-radius: 18px;
+    padding-left: 20px;
+    margin-top: 40px;
+    width: 710px;
+}
+
+.dashbottom{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.topper1{
+    display: flex;
+    flex-direction: row;
+}
+
+#topp{
+    margin-top: -20px;
+}
+
+#dots{
+    margin-top: 25px;
+    margin-left: 120px;
+}
+
+.topper{
+    margin-top: 40px;
+    border-radius: 18px;
+    background-color: white;
+    padding-left: 10px;
+    padding-top: 5px;
+    height: 420px;
+}
+
+.toppera{
+    margin-top: -20px;
+}
+
+#topper2numbers{
+    margin-left: 145px;
+}
+
+#dot{
+    margin-top: 25px;
+    margin-left: 90px;
+}
+
+.topper2{
+    display: flex;
+    flex-direction: row;
+    margin-top: -10px;
+}
+
+.topper3{
+    margin-top: -15px;
+}
+
+.topper4{
+    display: flex;
+    flex-direction: row;
+    margin-top: -11px;
+}
+
+#topdate{
+    margin-left: 140px;
+}
+
+.backer{
+    background-color: white;
+    border-radius: 18px;
+    padding-left: 10px;
+    padding-top: 5px;
+    margin-top: 40px;
+}
+
+.backer1{
+    display: flex;
+    flex-direction: row;
+    margin-top: -8px;
+}
+
+#bp{
+    margin-top: -20px;
+}
+
+#backertime{
+    margin-left: 60px;
+    color: #B0B0B0;
+    margin-top: 20px;
+}
